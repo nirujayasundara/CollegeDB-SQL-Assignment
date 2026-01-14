@@ -1,0 +1,13 @@
+1. Create a database named CollegeDB
+2. create table student with columns student_id, first_name, last_name, age, department
+3. Add a new column email (VARCHAR(100)) to the Students table.
+4. Rename the column department to dept_name.
+5. Insert 
+101	Aman	Sharma	21	Computer Science	aman@college.edu
+102	Priya	Singh	22	Data Analytics	priya@college.edu
+103	Rohan	Mehta	20	Marketing	rohan@college.edu
+6. display all the records
+7. Update the age of student with student_id = 103 to 21.
+8. Retrieve names and departments of all students older than 21.
+9. Change the dept_name of 'Priya Singh' to 'Business Analytics'.
+10. Count the total number of students in the Students table.
